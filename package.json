@@ -4,7 +4,7 @@
   "description": "",
   "main": "batalla.test.js",
   "scripts": {
-    "arciaTest": " jest batalla.test.js"
+    "test": " jest batalla.test.js"
   },
   "author": "",
   "license": "ISC",
