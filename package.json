@@ -1,0 +1,15 @@
+{
+  "name": "starter-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "batalla.test.js",
+  "scripts": {
+    "arciaTest": " jest batalla.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^23.6.0",
+    "webpack": "^4.28.4"
+  }
+}
